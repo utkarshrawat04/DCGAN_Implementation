@@ -16,6 +16,7 @@ Install the following dependencies:
 - **NumPy** (version 1.23.5)
 - **Matplotlib** (version 3.5.2)
 
+
 Check your installation by running:
 
 ```python
@@ -32,3 +33,10 @@ def check_installation():
     print("matplotlib version:", plt.__version__)
 
 check_installation()
+```
+## References
+- https://www.analyticsvidhya.com/blog/2021/07/deep-convolutional-generative-adversarial-network-dcgan-for-beginners/
+- https://github.com/pytorch/tutorials/blob/main/beginner_source/dcgan_faces_tutorial.py
+- https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+
+
